@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# vaxis AI rule files and workspace config
+.ai-rules
+ai-prompt.txt
+*.code-workspace
+.vscode/
