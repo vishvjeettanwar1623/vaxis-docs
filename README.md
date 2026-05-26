@@ -1,1 +1,1 @@
-This is the document for this. If you want to see the document, go to this link.
+This project is the doc website, the document website of Vaxis. Kindly go to this website to know about Vaxis with the link provided below.
